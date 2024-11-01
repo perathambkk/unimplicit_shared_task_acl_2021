@@ -1,5 +1,5 @@
 # unimplicit_shared_task_acl_2021
-The Transformers for Text Classification Baseline (TTCB) System to a Shared Task on Implicit and Underspecified Language @ACL-2021. <b>We won the competition by sampling more models based on the validation scores.</b>
+The Transformers for Text Classification Baseline (TTCB) System to a Shared Task on Implicit and Underspecified Language @ACL-2021. <b>We won the competition by sampling more models based on the validation scores.</b> (There were only 2 teams by the way.)
 
 The best result based on XLNet (68.84% dev accuracy) can be viewed as a colab file at https://colab.research.google.com/drive/1TQ5vy07WKCbF2T-DY7lEHQVdZtXO43n8?usp=sharing. 
 
